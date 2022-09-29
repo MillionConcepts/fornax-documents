@@ -5,6 +5,7 @@ This repository contains analytic reports, informational graphics, and documenta
 Please note that the contents of this repository are currently under review and may be subject to change in the near future.
 
 ## contents
+* **benchmark_results_initial_pass_2022_08_30.tar.gz** -- initial results from runs of the FITS cloud access benchmarking suite
 * **benchmark_suite_instructions.pdf** -- installation and usage instructions for our FITS cloud access benchmarking suite (https://github.com/fornax-navo/fornax-s3-subsets/tree/main/subset/benchmark)
 * **compression comparison.pdf** -- summary report for our study of the photometric effects of RICE tile compression on GALEX images
 * **considerations_and_tradeoffs.pdf** -- full-length report of our findings on considerations and tradeoffs for cloud storage-backed cutouts from astronomical data
